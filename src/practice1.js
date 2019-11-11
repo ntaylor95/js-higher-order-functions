@@ -19,3 +19,8 @@ console.log(pickIngredients(true));
 
 console.log(`Taco Ingredients for an All out awesome Taco are`);
 console.log(pickIngredients(false));
+
+//Next steps
+// .prepare the ingredients
+// .make the taco
+// .serve the taco with x, y, and z ingredients
