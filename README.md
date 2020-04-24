@@ -1,3 +1,5 @@
+# Playground for all things Node.js and JavaScript
+
 # js-higher-order-functions
 Need to practice more with these higher order functions and really want to work with this pipeline function operator
 
